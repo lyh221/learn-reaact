@@ -26,9 +26,9 @@ function App() {
       Hello World!
       <Greeting />
       <Greeting />
+      {/* <Card     />
       <Card     />
-      <Card     />
-      <Card     />
+      <Card     /> */}
     </div>
   );
 }
