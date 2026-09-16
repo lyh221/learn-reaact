@@ -1,4 +1,5 @@
-import Greeting from "./Greeting";
+import Card from "./components/Card";
+import Greeting from "./components/Greeting";
 
 function App() {
   //logical
@@ -24,6 +25,10 @@ function App() {
     <div className="App">
       Hello World!
       <Greeting />
+      <Greeting />
+      <Card     />
+      <Card     />
+      <Card     />
     </div>
   );
 }
